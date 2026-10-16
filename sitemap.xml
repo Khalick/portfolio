@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://khalick.github.io/portfolio/</loc>
+    <loc>https://peteragakodongo.vercel.app/</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
-    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/hero.jpg</image:loc></image:image>
+    <image:image><image:loc>https://peteragakodongo.vercel.app/assets/img/hero.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://khalick.github.io/portfolio/ventures.html</loc>
+    <loc>https://peteragakodongo.vercel.app/ventures.html</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/lokari-interview.jpg</image:loc></image:image>
+    <image:image><image:loc>https://peteragakodongo.vercel.app/assets/img/lokari-interview.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://khalick.github.io/portfolio/about.html</loc>
+    <loc>https://peteragakodongo.vercel.app/about.html</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/portrait-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://peteragakodongo.vercel.app/assets/img/portrait-2.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://khalick.github.io/portfolio/writing.html</loc>
+    <loc>https://peteragakodongo.vercel.app/writing.html</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://khalick.github.io/portfolio/writing/every-good-business.html</loc>
+    <loc>https://peteragakodongo.vercel.app/writing/every-good-business.html</loc>
     <lastmod>2026-10-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://khalick.github.io/portfolio/writing/trust-is-the-product.html</loc>
+    <loc>https://peteragakodongo.vercel.app/writing/trust-is-the-product.html</loc>
     <lastmod>2026-10-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://khalick.github.io/portfolio/writing/a-place-to-feel.html</loc>
+    <loc>https://peteragakodongo.vercel.app/writing/a-place-to-feel.html</loc>
     <lastmod>2026-10-16</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://khalick.github.io/portfolio/moments.html</loc>
+    <loc>https://peteragakodongo.vercel.app/moments.html</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
-    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/gitex-arrive.jpg</image:loc></image:image>
-    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/gitex-duo.jpg</image:loc></image:image>
-    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/gitex-wide.jpg</image:loc></image:image>
-    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/gitex-ai.jpg</image:loc></image:image>
-    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/odoo-outdoor.jpg</image:loc></image:image>
-    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/odoo-trio.jpg</image:loc></image:image>
-    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/interview-3.jpg</image:loc></image:image>
-    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/odoo-night.jpg</image:loc></image:image>
-    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/lokari-duo.jpg</image:loc></image:image>
-    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/lokari-team.jpg</image:loc></image:image>
+    <image:image><image:loc>https://peteragakodongo.vercel.app/assets/img/gitex-arrive.jpg</image:loc></image:image>
+    <image:image><image:loc>https://peteragakodongo.vercel.app/assets/img/gitex-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://peteragakodongo.vercel.app/assets/img/gitex-wide.jpg</image:loc></image:image>
+    <image:image><image:loc>https://peteragakodongo.vercel.app/assets/img/gitex-ai.jpg</image:loc></image:image>
+    <image:image><image:loc>https://peteragakodongo.vercel.app/assets/img/odoo-outdoor.jpg</image:loc></image:image>
+    <image:image><image:loc>https://peteragakodongo.vercel.app/assets/img/odoo-trio.jpg</image:loc></image:image>
+    <image:image><image:loc>https://peteragakodongo.vercel.app/assets/img/interview-3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://peteragakodongo.vercel.app/assets/img/odoo-night.jpg</image:loc></image:image>
+    <image:image><image:loc>https://peteragakodongo.vercel.app/assets/img/lokari-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://peteragakodongo.vercel.app/assets/img/lokari-team.jpg</image:loc></image:image>
   </url>
   <url>
-    <loc>https://khalick.github.io/portfolio/press.html</loc>
+    <loc>https://peteragakodongo.vercel.app/press.html</loc>
     <lastmod>2026-10-16</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://khalick.github.io/portfolio/contact.html</loc>
+    <loc>https://peteragakodongo.vercel.app/contact.html</loc>
     <lastmod>2026-10-16</lastmod>
     <priority>0.6</priority>
   </url>
