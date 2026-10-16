@@ -46,10 +46,17 @@
     <loc>https://khalick.github.io/portfolio/moments.html</loc>
     <lastmod>2026-10-16</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
+    <priority>0.7</priority>
+    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/gitex-arrive.jpg</image:loc></image:image>
     <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/gitex-duo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/gitex-wide.jpg</image:loc></image:image>
+    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/gitex-ai.jpg</image:loc></image:image>
+    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/odoo-outdoor.jpg</image:loc></image:image>
+    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/odoo-trio.jpg</image:loc></image:image>
+    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/interview-3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/odoo-night.jpg</image:loc></image:image>
+    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/lokari-duo.jpg</image:loc></image:image>
     <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/lokari-team.jpg</image:loc></image:image>
-    <image:image><image:loc>https://khalick.github.io/portfolio/assets/img/interview-wide.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://khalick.github.io/portfolio/press.html</loc>
