@@ -42,7 +42,7 @@
 
   // Gallery lightbox
   var box = document.getElementById('lightbox');
-  var figs = Array.prototype.slice.call(document.querySelectorAll('#gallery .g'));
+  var figs = Array.prototype.slice.call(document.querySelectorAll('.js-lb'));
   if (box && figs.length) {
     var boxImg = box.querySelector('img');
     var boxCap = box.querySelector('figcaption');
@@ -53,10 +53,7 @@
       var img = figs[current].querySelector('img');
       boxImg.src = img.src;
       boxImg.alt = img.alt;
-      boxCap.textContent = Array.prototype.map.call(
-        figs[current].querySelectorAll('figcaption span'),
-        function (s) { return s.textContent; }
-      ).join('  ·  ');
+      boxCap.textContent = figs[current].getAttribute('data-caption') || img.alt;
     };
     var open = function (i) {
       lastFocus = document.activeElement;
@@ -71,8 +68,8 @@
       if (lastFocus) lastFocus.focus();
     };
 
-    figs.forEach(function (fig, i) {
-      fig.querySelector('button').addEventListener('click', function () { open(i); });
+    figs.forEach(function (btn, i) {
+      btn.addEventListener('click', function () { open(i); });
     });
     box.querySelector('.lightbox__close').addEventListener('click', close);
     box.querySelector('.lightbox__nav--prev').addEventListener('click', function () { show(current - 1); });
