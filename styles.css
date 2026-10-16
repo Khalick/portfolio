@@ -723,7 +723,7 @@ img.mono:hover,
 
 .tale__beats { max-width: 860px; margin: 0 auto; }
 
-.beat { margin: 0 0 clamp(64px, 9vw, 112px); display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: clamp(32px, 6vw, 88px); align-items: center; }
+.beat { margin: 0 0 clamp(44px, 6vw, 80px); display: grid; grid-template-columns: 340px minmax(0, 1fr); gap: clamp(32px, 6vw, 88px); align-items: center; }
 .beat--right { grid-template-columns: minmax(0, 1fr) 340px; }
 .beat--right .beat__img { order: 2; }
 .beat--right .beat__text { order: 1; text-align: right; }
